@@ -1,16 +1,14 @@
-# weather_app
+# Weather App
 
-A new Flutter project.
+This app will show you the weather for location via a quick search by city. The app will then tell you what clothing would be appropriate to wear.
+This app was made using flutter and a standard weather rest service.
 
-## Getting Started
+## How To
 
-This project is a starting point for a Flutter application.
+Search for a city that you'd like to see the weather for.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Setup
+- Pull app
+- Create an OpenWeatherMap account.
+- Create an OpenWeatherMap api token.
+- Insert your token in the codebase.
